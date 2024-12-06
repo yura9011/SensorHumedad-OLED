@@ -1,5 +1,6 @@
 
 Sensor de Humedad con Arduino y Pantalla OLED
+
 Este proyecto utiliza un Arduino Uno, una pantalla OLED SSD1306 y un sensor de humedad de suelo para medir la humedad de la tierra y mostrar los valores en la pantalla OLED. Es ideal para proyectos de riego automatizado o monitoreo de plantas.
 
 Materiales
